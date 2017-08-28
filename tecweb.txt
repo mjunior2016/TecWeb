@@ -1,0 +1,69 @@
+Tecnologia e Projeto Web
+
+Carga Horária: 40
+
+Objetivo
+
+O curso de Tecnologia e Projeto Web destina-se aos profissionais que desejam atuar na área de criação
+web e precisam ter a capacidade de analisar os elementos que influenciam no desenvolvimento de um
+site. O curso aborda as ferramentas Web, conhecimento de público-alvo e os objetivos a serem atingidos,
+bem como estratégias de apresentação para a página Web e análise de tendências do mercado.
+
+O curso é ministrado por Roque Fernando Marcos Sousa, consultor em TI, especialista em arquitetura da informação e instrutor de cursos de tecnologia da informação na Impacta Tecnologia desde 1999. Também é palestrante e autor de publicações sobre Web e HTML5.
+
+Pré requisito
+
+Para o melhor aproveitamento do curso de Tecnologia e Projeto Web, é imprescindível ter conhecimento
+básico de algum sistema operacional.
+
+Projeto Web
+
+Projeto Web: O usuário é o alvo; Fragmentação x Cross-browser; Estratégia de apresentação.
+Estrutura e Elaboração
+Arquitetura da informação: Fragmentação; Encontrabilidade (findability); Técnicas analíticas; Usuários;
+Web Semantic.Wireframes: Tamanho de tela; Fontes; Benefícios.Fluxograma: Linguagem UML.Links de
+rodapé (Footer links).
+
+Usabilidade
+
+Usabilidade: Layout; Testes.Responsividade: Composição e práticas.Semiótica.
+User Interface x User Experience
+User Interface (UI): Direção de arte.User Experience (UX).Web designer: Competências do Web designer.
+SEM, SEO e CRM
+Marketing de busca.SEM (Search Engine Marketing): Off-page; Boas práticas do SEM.SEO (Search
+Engine Optimization): On-page; Boas práticas do SEO.CRM (Customer Relationship Management).
+
+Site Seguro e Certificado Digital
+
+Site seguro.Certificados digitais: Criptografia.Cloud computing: Vantagens econômicas.
+Design Tools x Libraries Codes
+XHTML e CSS: JavaScript.Libraries Javascript: AJAX; ASP, PHP e SSI; Java e XML; .NET;
+ActionScript.Web services: RSS e ATOM.B2B, B2C e E-marketplace.Ferramentas do profissional
+Web.Design Tools.Developer Tools.
+
+Domínios e Gerenciamento
+
+Domínios: Servidores DNS; IP (Internet Protocol).Manutenção: Local e remota.Frameworks e CMSs.
+Marketing Digital
+
+Divulgação: Estratégias; Google Adwords - Links patrocinados; Facebook Ads.E-mail marketing.Formatos
+de publicidade: Web; Mobiles.
+
+Jurisdição na Web
+
+Marco Civil da Internet: Itens de discussão do Marco Civil da Internet; Princípios e Direitos da Internet;
+Boas práticas; Direitos autorais na Internet.Comércio eletrônico.Compras coletivas.
+
+Direitos Autorais
+
+Direitos autorais e propriedade industrial.SPAM.Termos de uso de conteúdo.
+
+Turmas disponíveis
+
+Início	Término	Período	Unidade		
+20/09/2017	03/10/2017	Noturno	São Paulo - Paulista 	Até:3x 459,57 Por:1.378,72 Adicionar ao Carrinho
+20/09/2017	03/10/2017	Noturno	São Paulo - Paulista	Esgotado
+28/10/2017	02/12/2017	Sábado	São Paulo - Paulista	Esgotado
+28/10/2017	02/12/2017	Sábado	São Paulo - Paulista	Até:3x 459,57 Por:1.378,72 Adicionar ao Carrinho
+06/11/2017	21/11/2017	Noturno	São Paulo - Paulista	Até:3x 459,57 Por:1.378,72 Adicionar ao Carrinho
+06/11/2017	21/11/2017	Noturno	São Paulo - Paulista	Esgotado
